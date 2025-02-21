@@ -42,3 +42,7 @@
     box-sizing: border-box;
     resize: vertical;
 }
+
+.container form input:focus {
+    border-color: #66afe9;
+}
