@@ -50,6 +50,7 @@
 
 .container form input:focus {
     border-color: #66afe9;
+    box-shadow: 0 0 5px rgba(34, 34, 106, 0.1);
 }
 
 .container form button {
