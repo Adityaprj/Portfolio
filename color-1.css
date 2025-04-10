@@ -58,6 +58,7 @@
 .container form button {
     padding: 10px;
     border: none;
+    background-color: #5cb85c;
     background-color: #66afe9;
     color: #fff;
     font-size: 16px;
